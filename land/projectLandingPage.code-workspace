@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "land",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
+}
